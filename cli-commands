@@ -1,0 +1,16 @@
+docker info
+docker pull centos: latest
+docker run -it --name"mydockercontainer" centos:latest
+yum install httpd
+cd /var/www/html
+cat > in.html
+completing task 7.1
+
+/usr/sbin/httpd
+yum install ifconfig
+
+yum install python3-pip
+
+vi a1.py
+print(" im arth learner")
+python3 a1.py
